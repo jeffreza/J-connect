@@ -6,3 +6,11 @@ The main objective of the study is to provide holistic view about each layer of 
 Furthermore, I have implemented the related technologies which are used in conjunction with MVC based web applications.
 I have only implemented front-end frameworks of MVC architecture in this project. 
 Applications, MVC architecture is good choice for them because it provides many powerful features for web application as compared to the simple web form-based web applications.
+
+Spring 5
+MVC + Spring JDBC
+Java Servlet
+Java Server Pages
+JSP standard Tag library
+MySQL Connector Java (JDBC Driver)
+
